@@ -9,12 +9,6 @@ import com.example.mathfun.view.WelcomeScreen
 import com.example.mathfun.view.GameScreen
 import com.example.mathfun.view.AboutScreen
 
-//sealed class Screen(val route: String) {
-//    object Welcome : Screen("welcome_screen")
-//    object Game : Screen("game_screen")
-//    object About : Screen("about_screen")
-//}
-
 @Composable
 fun NavGraph(navController: NavHostController = rememberNavController()) {
     NavHost(navController = navController, startDestination = "welcome") {

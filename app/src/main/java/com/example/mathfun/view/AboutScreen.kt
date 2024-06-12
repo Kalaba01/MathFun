@@ -28,7 +28,7 @@ fun AboutScreen(navController: NavController) {
         Image(
             painter = painterResource(id = R.drawable.pozadina),
             contentDescription = null,
-            alpha = 0.7F,
+            alpha = 0.6F,
             contentScale = ContentScale.Crop,
             modifier = Modifier.fillMaxSize()
         )
