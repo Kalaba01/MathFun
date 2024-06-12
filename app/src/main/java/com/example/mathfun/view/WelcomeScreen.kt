@@ -29,7 +29,7 @@ fun WelcomeScreen(navController: NavController) {
         Image(
             painter = painterResource(id = R.drawable.pozadina),
             contentDescription = null,
-            alpha = 0.6F,
+            alpha = 0.5F,
             contentScale = ContentScale.Crop,
             modifier = Modifier.fillMaxSize()
         )
