@@ -61,6 +61,9 @@ Key Responsibilities:
 -Manage the navigation state
 
 ### WelcomeScreen
+
+![welcome](https://github.com/Kalaba01/MathFun/assets/130281220/000df222-f64a-40d2-bab3-9b44cedc9ad3)
+
 WelcomeScreen is the initial screen of the app, providing users with options to start the game or learn more about the app.
 
 Key Responsibilities:
@@ -68,6 +71,9 @@ Key Responsibilities:
 -Navigate to GameScreen or AboutScreen based on user interaction
 
 ### GameScreen
+
+![game](https://github.com/Kalaba01/MathFun/assets/130281220/f154160b-46f2-40fd-af01-90f9dbf689a5)
+
 GameScreen is where the main functionality of the app resides. It allows users to practice addition and subtraction with randomly generated tasks.
 
 Key Responsibilities:
@@ -77,6 +83,9 @@ Key Responsibilities:
 -Provide options to start a new game or share the score
 
 ### AboutScreen
+
+![about](https://github.com/Kalaba01/MathFun/assets/130281220/9558a375-9259-4251-95de-3f4e31911d30)
+
 AboutScreen provides information about the app, how to use it, scoring system, and other relevant details.
 
 Key Responsibilities:
